@@ -71,9 +71,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Whatsapp',
+			icon: 'message-circle-more',
+			link: 'https://web.whatsapp.com/',
 		},
 		{
 			id: '5',
